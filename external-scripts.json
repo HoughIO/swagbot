@@ -1,4 +1,6 @@
 [
+  "hubot-steam-webapi",
+  "hubot-subreddit-linker",
   "hubot-diagnostics",
   "hubot-help",
   "hubot-heroku-keepalive",
