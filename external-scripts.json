@@ -1,4 +1,6 @@
 [
+  "hubot-speak",
+  "hubot-humanity",
   "hubot-steam-webapi",
   "hubot-subreddit-linker",
   "hubot-diagnostics",
