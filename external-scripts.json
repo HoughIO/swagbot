@@ -1,5 +1,6 @@
 [
   "hubot-speak",
+  "hubot-reaction",
   "hubot-humanity",
   "hubot-steam-webapi",
   "hubot-subreddit-linker",
